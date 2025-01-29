@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @helarie98
-- 👀 I’m interested in  computational physics, data science, machine learning
-- 🌱 I’m currently learning mathematical science and some programming language at Aims South Africa
-- 💞️ I’m looking to collaborate on how to do new discoveries in quantum computing for innovation 
+- 👋 Hi, I’m Helarie Rose
+- 👀 I’m interested in  Quantum Comouting, data science, machine learning
+- 🌱 I’m currently pursuing a PhD in Quantum Computing at the university of Kwazulu-Natal in Durban South Africa
+- 💞️ I’m looking to collaborate on how to do new discoveries in Quantum Computing for innovation 
 - 📫 How to reach me:
+                   223153323@stu.ukzn.ac.za
                    helarie@aims.ac.za
                    mediefah@gmail.com
 
