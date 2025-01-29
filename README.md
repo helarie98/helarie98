@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Helarie Rose
-- 👀 I’m interested in  Quantum Comouting, data science, machine learning
+- 👀 I’m interested in  Quantum Computing, data science, machine learning
 - 🌱 I’m currently pursuing a PhD in Quantum Computing at the university of Kwazulu-Natal in Durban South Africa
 - 💞️ I’m looking to collaborate on how to do new discoveries in Quantum Computing for innovation 
 - 📫 How to reach me:
